@@ -1,8 +1,0 @@
-{
-  "extends": "@tsconfig/node16/tsconfig.json",
-  "compilerOptions": {
-    "outDir": "ts-compiled-test"
-  },
-  "include": ["./ts-test/**/*"],
-  "exclude": ["./ts-test/**/*.test.ts"],
-}
