@@ -1,0 +1,14 @@
+{
+  "name": "15-prisma",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.3.1"
+  },
+  "devDependencies": {
+    "prisma": "^4.3.1"
+  }
+}
